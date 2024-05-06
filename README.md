@@ -35,7 +35,7 @@ Human-Centered Artificial Intelligence</br>
 
 <h3 align="center">💚💚💚</h3>
 <div align="center">
--ING</br>
+~ING</br>
 정보처리기사 필기 (2024.03.13)</br>
 </div>
 
