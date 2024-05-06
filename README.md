@@ -24,18 +24,18 @@ font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
 
 <h3 align="center">🩷🩷🩷</h3>
 <div align="center">
-XOXO️, Jinha Park 💋</br></br>
+XOXO️, Jinha Park 💋</br>
 </div>
 
 <h3 align="center">💛💛💛</h3>
 <div align="center">
 Sangmyung University, Seoul, Republic of Korea</br>
-Human-Centered Artificial Intelligence</br></br>
+Human-Centered Artificial Intelligence</br>
 </div>
 
 <h3 align="center">💚💚💚</h3>
 <div align="center">
-(Qualification)</br></br>
+(Qualification)</br>
 </div>
 
 <h3 align="center">🩵🩵🩵</h3>
@@ -53,7 +53,7 @@ Human-Centered Artificial Intelligence</br></br>
 <img src="https://img.shields.io/badge/visualstudio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=black"/>&nbsp</br>
 <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
-<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp</br></br>
+<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp</br>
 </div>
 
 <h3 align="center">💜💜💜</h3>
@@ -65,5 +65,5 @@ Human-Centered Artificial Intelligence</br></br>
 <img src="https://img.shields.io/badge/jinhapark50@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </a>
 </div>
-</br></br>
+</br>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=AD8EDB&height=40&section=footer&text=&fontSize=0" width="100%"/>
