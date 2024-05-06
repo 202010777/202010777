@@ -22,23 +22,23 @@ font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DED2C8,100:EFD6BF&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </br>
-<h3 align="center">❤️</h3>
+<h3 align="center">🩷🩷🩷</h3>
 <div align="center">
 XOXO️, Jinha Park 💋</br></br>
 </div>
 
-<h3 align="center">🩷</h3>
+<h3 align="center">💛💛💛</h3>
 <div align="center">
 Sangmyung University, Seoul, Republic of Korea</br>
 Human-Centered Artificial Intelligence</br></br>
 </div>
 
-<h3 align="center">🧡</h3>
+<h3 align="center">💚💚💚</h3>
 <div align="center">
 (Qualification)</br></br>
 </div>
 
-<h3 align="center">💛</h3>
+<h3 align="center">🩵🩵🩵</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp
@@ -56,7 +56,7 @@ Human-Centered Artificial Intelligence</br></br>
 <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black"/>&nbsp</br></br>
 </div>
 
-<h3 align="center">💚</h3>
+<h3 align="center">💜💜💜</h3>
 <div align="center">
 <a href="https://blog.naver.com/sw61457">
 <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
