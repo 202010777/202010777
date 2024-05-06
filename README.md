@@ -62,7 +62,7 @@ Human-Centered Artificial Intelligence</br></br>
 <img src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
 </a>
 <a href="jinhapark50@gmail.com">
-<img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/jinhapark50@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
 </a>
 </div>
 </br></br>
