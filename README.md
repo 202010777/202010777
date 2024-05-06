@@ -2,7 +2,11 @@
 
 <!--
 **202010777/202010777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#DED2C8&height=100&section=header&text=&fontSize=0" width="100%"/>
+
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -12,6 +16,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=#DED2C8&height=40&section=footer&text=&fontSize=0" width="100%"/>
-Here are some ideas to get you started:
+
 -->
