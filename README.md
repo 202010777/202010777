@@ -22,15 +22,21 @@ font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DED2C8,100:EFD6BF&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
-### ❤️
+<h3 align="center">❤️</h3>
+<div align="center">
 XOXO️, Jinha Park 💋</br>
+</div>
 
-### 🩷
+<h3 align="center">🩷</h3>
+<div align="center">
 Sangmyung University, Seoul, Republic of Korea</br>
 Human-Centered Artificial Intelligence</br>
+</div>
 
-### 🧡
+<h3 align="center">🧡</h3>
+<div align="center">
 (Qualification)
+</div>
 
 <h3 align="center">💛</h3>
 <div align="center">
