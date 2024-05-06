@@ -36,6 +36,8 @@ Human-Centered Artificial Intelligence</br>
 <h3 align="center">💚💚💚</h3>
 <div align="center">
 ~ING</br>
+한국사능력검정시험 1급 (2021.11.05)</br>
+TOEIC Speaking Test IM2 (2023.08.20)</br>
 정보처리기사 필기 (2024.03.13)</br>
 </div>
 
