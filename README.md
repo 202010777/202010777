@@ -20,7 +20,7 @@ font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
 
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1B2FF,100:FFB2F5&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB2F5&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 <h3 align="center">🩷🩷🩷</h3>
 <div align="center">
@@ -66,4 +66,4 @@ Human-Centered Artificial Intelligence</br></br>
 </a>
 </div>
 </br></br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D1B2FF,100:FFB2F5&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFB2F5&height=40&section=footer&text=&fontSize=0" width="100%"/>
