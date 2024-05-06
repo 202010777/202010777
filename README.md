@@ -22,7 +22,7 @@ font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=AD8EDB&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
-<h3 align="center">🩷🩷🩷</h3>
+<h3 align="center">❤️❤️❤️</h3>
 <div align="center">
 XOXO️, Jinha Park 💋</br>
 </div>
@@ -35,13 +35,13 @@ Human-Centered Artificial Intelligence</br>
 
 <h3 align="center">💚💚💚</h3>
 <div align="center">
-~ING</br>
 한국사능력검정시험 1급 (2021.11.05)</br>
 TOEIC Speaking Test IM2 (2023.08.20)</br>
 정보처리기사 필기 (2024.03.13)</br>
+~ING</br>
 </div>
 
-<h3 align="center">🩵🩵🩵</h3>
+<h3 align="center">💙💙💙</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp
