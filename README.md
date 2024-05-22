@@ -69,4 +69,5 @@ TOEIC Speaking Test IM2 (2023.08.20)</br>
 </a>
 </div>
 </br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sw61457)](https://solved.ac/sw61457/)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=AD8EDB&height=40&section=footer&text=&fontSize=0" width="100%"/>
