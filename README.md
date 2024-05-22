@@ -70,7 +70,7 @@ TOEIC Speaking Test IM2 (2023.08.20)</br>
 </div>
 </br>
 <div align="center">
-  <a href="https://www.acmicpc.net/user/sw61457" target="_blank">
+  <a href="https://solved.ac/profile/sw61457" target="_blank">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sw61457" alt="solved.ac 프로필">
 </a>
 </div>
