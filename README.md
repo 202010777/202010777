@@ -38,6 +38,7 @@ Human-Centered Artificial Intelligence</br>
 한국사능력검정시험 1급 (2021.11.05)</br>
 TOEIC Speaking Test IM2 (2023.08.20)</br>
 정보처리기사 필기 (2024.03.13)</br>
+SQLD SQL 개발자 (2024.06.21)</br>
 ~ING</br>
 </div>
 
