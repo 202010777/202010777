@@ -39,6 +39,7 @@ Human-Centered Artificial Intelligence</br>
 TOEIC Speaking Test IM2 (2023.08.20)</br>
 정보처리기사 필기 (2024.03.13)</br>
 SQLD SQL 개발자 (2024.06.21)</br>
+ADsP 데이터 분석 준전문가 (2025.06.13)</br>
 ~ING</br>
 </div>
 
